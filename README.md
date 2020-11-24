@@ -1,7 +1,9 @@
-### Hi there 👋
-My name is Seif [listen](https://www.youtube.com/watch?v=3T-6WlVCh9U) . I'm a Full Stack Developer from Jordan. I build beautiful Web apps with strong focus on SOLID performance, SEO and overall awesomeness.
+### Hi 👋
+My name is Seif. I'm a Full Stack Developer from Jordan. I build beautiful Web apps with strong focus on SOLID performance, SEO and overall awesomeness.
 
-You can learn more about me on [seif.rocks](https://seif.rocks)
+My most recent project that I built from scratch is [envago.io](https://envago.io).
+
+You can learn more about me on [seif.rocks](https://seif.rocks).
 <!--
 **SethBuilder/SethBuilder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
