@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi 👋🏽
 My name is Seif. I'm a Full Stack Developer from Jordan. I build beautiful Web apps with strong focus on SOLID performance, SEO and overall awesomeness.
 
 - 🔭 I’m currently working on [envago.io](https://envago.io)
